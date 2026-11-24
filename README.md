@@ -2,7 +2,7 @@
 
 [![bounty](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
 [![rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Sidik9991/makefun-horror-2sent/rank.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
-[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
+[![reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Sidik9991/makefun-horror-2sent/reward.svg)](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253)
 
 Entry for make.fun's [Two-Sentence Horror](https://make.fun/bounty/u-suroto-two-sentence-horror-acea9253) bounty ($2, winner takes all).
 
