@@ -57,6 +57,23 @@ const CANDIDATES: Candidate[] = [
     text: "In every family photo from my childhood, a tall man stands behind my father with his hands on his shoulders. My father insists he has never seen the man, but he will not look at the photographs anymore.",
     scores: [1, 1, 2, 1, 1],
   },
+  // Pass 2 challengers: three stronger late entries. The Lullaby comes
+  // closest (29/30) but still loses on originality; the fixed winner holds.
+  {
+    title: "The Lullaby",
+    text: "My grandmother hummed the same lullaby every night of my childhood, and I hum it now to my own baby. Last week the baby monitor picked up a second voice humming it back, a half-second behind mine.",
+    scores: [2, 2, 2, 2, 1],
+  },
+  {
+    title: "The Tenant",
+    text: "The landlord said the previous tenant still gets mail here sometimes, and to just throw it away. This morning a letter arrived addressed to me, in my name, dated next week.",
+    scores: [1, 2, 2, 2, 1],
+  },
+  {
+    title: "Static",
+    text: "The baby monitor crackles with static at 3 a.m., and through it I can hear a woman singing softly. We returned the monitor last month, but the singing never left the nursery wall.",
+    scores: [2, 2, 1, 1, 1],
+  },
 ];
 
 function scoreOf(c: Candidate): number {
